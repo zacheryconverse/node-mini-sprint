@@ -1,0 +1,21 @@
+body {
+    background: lightgray;
+}
+
+h1 {
+    padding: 10%;
+}
+
+h2 {
+    padding: 10px;
+}
+
+#submit {
+    color: darkolivegreen;
+    background-color: cyan;
+}
+
+#response {
+    font-weight: 800;
+    font: 800;
+}
